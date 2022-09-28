@@ -43,16 +43,16 @@
     margin-right: .5rem;
 } 
 .info .job::before{
-    background-image: url('../assets/img/icons/Group.png');
+    background-image: url('../img/icons/Group.png');
 }
 .info .estado::before{
-    background-image: url('../assets/img/icons/localiza.png');
+    background-image: url('../img/icons/localiza.png');
 }
 .info .tel::before{
-    background-image: url('../assets/img/icons/whats.png');
+    background-image: url('../img/icons/whats.png');
 }
 .info .email::before{
-    background-image: url('../assets/img/icons/mail.png');
+    background-image: url('../img/icons/mail.png');
 }
 @media only screen and (min-width: 768px) {
     .header {
