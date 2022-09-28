@@ -5,7 +5,7 @@
 
 body {
     color: #fff;
-    background-image: linear-gradient(to left, black, blue, black);
+    background-image: linear-gradient(to top, black, blue, black);
 }
 .main {
     margin: .3rem;
@@ -13,6 +13,7 @@ body {
     border: 1px solid #fff;
     border-radius: .5rem;
 }
+
 
 @media only screen and (min-width: 768px) {
     .main {
@@ -25,4 +26,7 @@ body {
     .main ::before {
         width: 70vw;
     }
+}
+a{
+    color: #ffff;
 }
