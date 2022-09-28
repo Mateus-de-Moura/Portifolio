@@ -50,7 +50,7 @@
     background-image:url('../img/icons/Group.png');
 }
 .info .estado::before{
-    background-image:url('/assets/img/icons/localiza.png');
+    background-image:url('../img/icons/localiza.png');
 }
 .info .tel::before{
     background-image:url('../img/icons/whats.png');
