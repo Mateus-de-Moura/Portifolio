@@ -32,6 +32,10 @@
     margin: .5rem;
     font-size: 1.25rem;
 }
+.info a{
+    color: #fff;
+    text-decoration: none;
+}
 
 .info p::before {
     content: '';
